@@ -22,8 +22,7 @@ Follow the steps below to set up and run the News Research Tool project.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/nitishsadhu03/learning-generative-ai-with-projects.git
-    cd news-research-tool
+    git clone https://github.com/nitishsadhu03/news-research-tool.git
     ```
 
 2. **Set up the virtual environment:**
